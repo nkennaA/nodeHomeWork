@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nkennaA/nodeHomeWork/issues"
   },
-  "homepage": "https://github.com/nkennaA/nodeHomeWork#readme"
+  "homepage": "https://github.com/nkennaA/nodeHomeWork#readme",
+  "dependencies": {
+    "prompts": "^2.2.1"
+  }
 }
