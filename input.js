@@ -11,4 +11,4 @@ exports.questions = [
         name: 'taste',
         message: 'What does it taste like? '
     }
-]
+];
