@@ -4,7 +4,9 @@
   "description": "",
   "main": "arraytest.js",
   "dependencies": {
-    "node": "^12.12.0"
+    "faker": "^4.1.0",
+    "node": "^12.12.0",
+    "require": "^2.4.20"
   },
   "devDependencies": {
     "mocha": "^6.2.1"
