@@ -1,22 +1,17 @@
 {
-  "name": "nodehomework",
+  "name": "noded",
   "version": "1.0.0",
   "description": "",
-  "main": "homework1.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "main": "arraytest.js",
+  "dependencies": {
+    "node": "^12.12.0"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/nkennaA/nodeHomeWork.git"
+  "devDependencies": {
+    "mocha": "^6.2.1"
+  },
+  "scripts": {
+    "test": "mocha"
   },
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/nkennaA/nodeHomeWork/issues"
-  },
-  "homepage": "https://github.com/nkennaA/nodeHomeWork#readme",
-  "dependencies": {
-    "prompts": "^2.2.1"
-  }
+  "license": "ISC"
 }
